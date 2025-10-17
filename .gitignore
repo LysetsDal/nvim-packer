@@ -1,0 +1,7 @@
+# .gitignore
+plugin/
+pack/
+autoload/
+node_modules/
+*.log
+.git/
